@@ -15,6 +15,7 @@ class TwitterNotifications(NameSearch):
       
       self.t = Twitter(auth=OAuth(self.token, self.token_key, self.con_secret, self.con_secret_key))
       
+      
     def get_twitter_names(self):
       data = self.t.statuses.mentions_timeline(count=10)
       for reply in data:
