@@ -1,0 +1,3 @@
+config.py
+*.pyc
+demographics_*.csv
