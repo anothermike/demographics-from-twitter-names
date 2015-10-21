@@ -1,6 +1,6 @@
 # Demographics from Twitter names
 
-The motivation for this code was a presentation in the Berlin AWS User Group.
+The motivation for this code was a presentation in the Berlin AWS User Group (http://www.meetup.com/de/aws-berlin/events/223647350/?eventId=223647350).
 Python is a great programming language which enables one to realize great use cases with just a few lines of code.
 Additionally, a bunch of machine learning and artificial intelligence libraries are available.
 
